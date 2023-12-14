@@ -43,9 +43,9 @@ The purpose of this project was to test XBNet changing the number of trees (n_es
 
 After that, import new version from directory.
 
-from XBNet2 import models, Seq
-from XBNet2.run import run_XBNET
-import torch
-
-importlib.reload(models)
-importlib.reload(Seq)
+    from XBNet2 import models, Seq
+    from XBNet2.run import run_XBNET
+    import torch
+    
+    importlib.reload(models)
+    importlib.reload(Seq)
