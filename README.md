@@ -2,6 +2,7 @@
 Georgian College Final Project Machine Learning Frameworks - AI
 
 This project is based on https://github.com/tusharsarkar3/XBNet repository from Tushar Sarkar.
+
 Link paper: https://paperswithcode.com/paper/xbnet-an-extremely-boosted-neural-network
 
 The purpose of this project was to test XBNet changing the number of trees (n_estimators) on XGBClassifier. To achieve the goal, I changed the hyperparameter on model constructor and base_tree method for classification taks.
